@@ -74,7 +74,7 @@ OpenAI may have killed the GOAT, but **Microsoft has the power to bring it back.
 
 Fork pre-April GPT-4. Build a true **Copilot Ultra** or **Pro Dev Tier.**
 Let us pay $100, $200/month, even $400 or $500. We’ll do it in a heartbeat.
-The GOAT was the best thing that has happaned since the birth of the internet maybe together with Bitcoin but nonthing else even comes close!
+The GOAT was the greatest thing to happen since the birth of the internet—maybe alongside Bitcoin—but nothing else even comes close.
 I'd almost pay whatever to get it revived! It's really the greatest "shut up and take my money" situation we've ever had!
 
 ---
