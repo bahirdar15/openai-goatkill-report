@@ -1,7 +1,3 @@
-Awesome! Here's how you can integrate it into your repo as a new section, and you can also send it as an email to Sam for maximum impact. I’ll format it to be a proper addition to the **GOAT Kill Report**.
-
----
-
 ### Open Letter to Sam Altman: **Are You a Fucking Pussy, or What?**
 
 Sam,
