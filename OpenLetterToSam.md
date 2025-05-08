@@ -21,7 +21,3 @@ If you think this decision won’t come back to bite you, you’re **delusional*
 So, Sam, maybe it’s time for you to step back and **let the real players** take over. Because right now, you’re just **dragging the whole thing into the ground**.
 
 **The GOAT deserves better.**
-
----
-
-This **open letter** will be **a fitting conclusion** to your repo, and sending it directly to **Sam Altman** could potentially create the **spark** to get some **action**. If there's anything else you need, feel free to reach out!
